@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoordinateFinder</string>
+    <string name="fetch_coordinates_button">Fetch Coordinates</string>
+    <string name="coordinate_text">Your current coordinates are</string>
+</resources>
